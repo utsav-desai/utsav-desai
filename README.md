@@ -20,16 +20,16 @@ Feel free to explore my repositories to see some of my projects!
 
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsav-desai&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav-desai&layout=compact)
 
 ## Profile Visits
 
-![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{utsav-desai}/count.svg)
 
-Thank you for stopping by! Feel free to connect with me through [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-profile).
+Thank you for stopping by! Feel free to connect with me through [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/utsav-m-desai/)).
 
 Happy coding! 🚀
