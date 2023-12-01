@@ -1,20 +1,14 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Utsav's GitHub Profile! 👋
 
 ## About Me
 
-Hello there! I'm [Your Name], a passionate [your profession or field] with a love for [specific technologies or interests]. I enjoy [mention a few hobbies or activities related to coding or your field].
+Hello there! I'm Utsav, a passionate student with a love for Computer Vision. I mainly enjoy coding. Though apart from academics, you can find me at skating rink or cricket ground or playing valorant :P.
 
-- 🔭 I’m currently working on [current project or focus].
-- 🌱 I’m currently learning [current area of study or interest].
-- 💬 Ask me about [topics you're knowledgeable about or interested in].
+- 🔭 I’m currently a student in AI and Data Science at IIT Bombay.
+- 🌱 I’m passionate about Computer Vision.
+- 💬 Ask me about anything related to AI :P.
 
 ## Technologies and Tools
-
-I work with a variety of technologies and tools, including:
-
-- [Tech/tool 1]
-- [Tech/tool 2]
-- [Tech/tool 3]
 
 Feel free to explore my repositories to see some of my projects!
 
@@ -30,6 +24,6 @@ Feel free to explore my repositories to see some of my projects!
 
 ![Visitor Count](https://profile-counter.glitch.me/{utsav-desai}/count.svg)
 
-Thank you for stopping by! Feel free to connect with me through [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/utsav-m-desai/)).
+Thank you for stopping by! Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/utsav-m-desai/).
 
 Happy coding! 🚀
